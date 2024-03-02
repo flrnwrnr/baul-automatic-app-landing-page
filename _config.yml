@@ -42,15 +42,15 @@ features                                  :
     
   - title                                 : Statistics
     description                           : Deep dive into your statistics to better understand and find patterns.
-    fontawesome_icon_name                 : chart-simple
+    fontawesome_icon_name                 : chart-line
 
   - title                                 : Locations
     description                           : Optional possibility to save past locations and see where you've made your business.
-    fontawesome_icon_name                 : location-dot
+    fontawesome_icon_name                 : map
 
   - title                                 : Data Protection
     description                           : Your health data remains private and securely stored on your device.
-    fontawesome_icon_name                 : file-shield
+    fontawesome_icon_name                 : lock
 
   - title                                 : Usability
     description                           : An intuitive user interface makes capturing and analyzing your data easy.

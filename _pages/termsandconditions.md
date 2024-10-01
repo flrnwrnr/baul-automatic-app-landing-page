@@ -139,7 +139,3 @@ If you have any questions about these Terms, please contact us:
 ---
 
 **By using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions.**
-
----
-
-**Note:** This update includes information about the free trial period that automatically transitions into a subscription unless canceled, as per your request. Please review the Terms carefully to ensure they meet all your legal requirements and consider consulting with a legal professional to ensure compliance with all applicable laws and regulations.

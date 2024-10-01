@@ -11,8 +11,6 @@ This is the first relase of Baul.
 #### What's New
 - All functionaility
 
-#### Bug Fixes
-- 
 
 <!-- <br>
 

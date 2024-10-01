@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Impress
+title: Imprint
 include_in_header: false
 ---
 
@@ -8,7 +8,7 @@ Certainly! I can help you create an **Imprint (Impressum)** for your app in Engl
 
 ---
 
-# Imprint (Impressum)
+# Imprint
 
 **FFWD Florian Werner Digital Ventures**
 

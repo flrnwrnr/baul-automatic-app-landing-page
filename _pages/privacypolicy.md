@@ -4,57 +4,102 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
-
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+_Last updated: October 1st 2024_
 
-<br>
+**Introduction**
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+Welcome to Baulapp ("we," "us," or "our"). We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy explains how our mobile application ("the App") collects, uses, and safeguards your information when you use it.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+**By using the App, you agree to the collection and use of information in accordance with this policy.**
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+---
 
-<br>
+## 1. Information We Collect
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+### 1.1 Personal Data
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+- **Health Data**: The App allows you to document your bowel movements and provides statistics based on your entries. All health-related data you enter is stored **locally on your device** and is not transmitted to us or any third parties.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+- **Location Data**: With your explicit consent, the App can collect your location data to enhance the statistical features. This information is stored **locally on your device** and is not shared with us or any third parties.
 
-<br>
+### 1.2 Subscription Data
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+- **Third-Party Services**: We use Superwall for subscription handling. Superwall may collect certain data necessary to process subscriptions and in-app purchases.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+  - **Data Collected by Superwall**: This may include transaction information, device identifiers, and usage data.
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+  - **Superwall's Privacy Policy**: For more details on how Superwall handles your data, please review their [Privacy Policy](https://www.superwall.com/privacy).
 
-<br>
+---
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## 2. How We Use Your Information
 
-<br>
+- **Local Data Processing**: All personal and health data remains on your device. The App processes this data locally to provide you with statistics and insights.
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+- **Subscription Management**: Data collected by Superwall is used solely for managing subscriptions and in-app purchases.
+
+---
+
+## 3. Legal Basis for Processing Personal Data under GDPR
+
+We process your personal data based on the following legal grounds:
+
+- **Consent**: By granting permission for location access and using the App, you consent to the processing of your data as described in this Privacy Policy.
+
+---
+
+## 4. Your Rights under GDPR
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights:
+
+- **Access**: You have the right to request copies of your personal data.
+
+- **Rectification**: You have the right to request that we correct any information you believe is inaccurate.
+
+- **Erasure**: You have the right to request that we erase your personal data under certain conditions.
+
+- **Data Portability**: You have the right to request that we transfer your data to another organization or directly to you.
+
+**Note**: Since all data is stored locally on your device, you can exercise these rights directly through the App or your device settings.
+
+---
+
+## 5. Children's Privacy
+
+The App is not intended for use by anyone under the age of 4. We do not knowingly collect personal data from children under this age. If you are a parent or guardian and become aware that your child has provided us with personal data, please contact us.
+
+---
+
+## 6. Data Security
+
+We prioritize the security of your data:
+
+- **Local Storage**: All your data is stored locally on your device.
+
+- **Data Export**: You can export your data as a JSON file. The exported data is stored in the location you choose and is not transmitted to us.
+
+- **Security Measures**: While we strive to use commercially acceptable means to protect your data, we cannot guarantee absolute security.
+
+---
+
+## 7. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time:
+
+- **Notification of Changes**: Any changes will be posted within the App, and the "Last updated" date will be revised.
+
+- **Review Period**: We encourage you to review this Privacy Policy periodically for any changes.
+
+---
+
+## 8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us:
+
+- **Email**: [feedback@baulapp.com](mailto:feedback@baulapp.com)
+
+---
+
+**By using the App, you acknowledge that you have read and understood this Privacy Policy.**

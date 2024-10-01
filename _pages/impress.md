@@ -4,10 +4,6 @@ title: Imprint
 include_in_header: false
 ---
 
-Certainly! I can help you create an **Imprint (Impressum)** for your app in English to comply with German legal requirements. Please note that while I can provide a general template, it's important to consult with a legal professional to ensure that your Imprint meets all legal obligations under German law.
-
----
-
 # Imprint
 
 **FFWD Florian Werner Digital Ventures**

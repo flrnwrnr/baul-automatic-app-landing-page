@@ -14,8 +14,8 @@ Welcome to the Baulapp Support Center! We're here to help you get the most out o
 
 To log a bowel movement:
 
-1. Open the app and tap the **"Add Entry"** button.
-2. Fill in the details such as time, type, and any notes.
+1. Open the app and tap the **+** button.
+2. Fill in the details such as time, type, and quantity.
 3. (Optional) Enable location if you wish to include it.
 4. Tap **"Save"** to store your entry.
 
@@ -48,11 +48,11 @@ To export your data as a JSON file:
 
 ### 6. **How do I enable or disable location tracking?**
 
-- Location tracking is optional and can be enabled or disabled at any time:
+- Location tracking is optional and can be enabled or disabled at any time in your device's settings:
 
-  1. Go to **"Settings"** within the app.
-  2. Toggle the **"Location Tracking"** option.
-  3. You may need to adjust permissions in your device's settings.
+  1. Go to **"Settings"** and select **"Privacy & Security"**.
+  2. Go to **"Location Tracking"** and select **"Baul"**
+  3. Toggle the **"Location Tracking"** option.
 
 ### 7. **Is my data secure?**
 
@@ -63,13 +63,8 @@ To export your data as a JSON file:
 ## Contact Us
 
 If your question wasn't answered above or you need further assistance, please don't hesitate to reach out to us.
+**Email:** [feedback@baulapp.com](mailto:feedback@baulapp.com)
 
-- **Email:** [feedback@baulapp.com](mailto:feedback@baulapp.com)
-- **Address:**
-  FFWD Florian Werner Digital Ventures  
-  Marquardsenstr. 4  
-  91054 Erlangen  
-  Germany
 
 ## Feedback and Suggestions
 
@@ -77,13 +72,6 @@ We value your feedback! If you have ideas on how we can improve Baulapp, please 
 
 - **Feature Requests:** Send us an email with the subject line **"Feature Request"**.
 - **Bug Reports:** If you've encountered an issue, please provide details about the problem and the device you're using.
-
-## Community Resources
-
-- **User Guide:** [Download the Baulapp User Guide](#) for detailed instructions and tips.
-- **Updates:** Stay informed about new features and updates by following our social media channels:
-  - **Twitter:** [@baulapp](#)
-  - **Facebook:** [Baulapp Official](#)
 
 ## Support Hours
 

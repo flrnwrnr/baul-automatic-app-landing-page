@@ -17,7 +17,7 @@ To log a bowel movement:
 1. Open the app and tap the **+** button.
 2. Fill in the details such as time, type, and quantity.
 3. (Optional) Enable location if you wish to include it.
-4. Tap **"Save"** to store your entry.
+4. Tap **"+"** to store your entry.
 
 ### 2. **How can I view my statistics?**
 
